@@ -10,7 +10,7 @@ A simple Node.js and Express project that visualizes world population data using
 - Static frontend served from `public/` folder
 
 ## Project Structure
-
+```
 Weather/
 ├─ server.js
 ├─ population_data.csv
@@ -21,7 +21,7 @@ Weather/
 ├─ index.html
 ├─ app.js
 └─ style.css
-
+```
 
 ## Getting Started
 
