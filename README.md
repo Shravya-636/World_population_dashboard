@@ -34,18 +34,20 @@ git clone https://github.com/YourUsername/WeatherDashboard.git
 
 ```bash
 npm install
-
+```
 
 3. Start the server:
 
 ```bash
 node server.js
+```
 
 
 4. Open your browser and go to:
 
 ```bash
 http://localhost:3000
+````
 
 
 
