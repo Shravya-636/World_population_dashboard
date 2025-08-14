@@ -29,6 +29,7 @@ Weather/
 
 ```bash
 git clone https://github.com/YourUsername/WeatherDashboard.git
+```
 
 2. Install dependencies:
 
